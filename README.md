@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuyao1999-rt-prompt-mcp-badge.png)](https://mseep.ai/app/yuyao1999-rt-prompt-mcp)
+
 <!-- @format -->
 
 [![smithery badge](https://smithery.ai/badge/@yuyao1999/rt-prompt-mcp-server)](https://smithery.ai/server/@yuyao1999/rt-prompt-mcp-server)
